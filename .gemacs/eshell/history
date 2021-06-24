@@ -1,0 +1,13 @@
+pip install python-language-server[all]
+pip uninstall python-language-server
+pip upgrade
+pip update
+pip -update
+pip -u
+pip install --upgrade pip
+rm pythonlsp.el
+rm pythonlsp.el\~
+pyls
+pyls
+zsh 
+zsh

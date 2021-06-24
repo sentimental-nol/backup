@@ -1,0 +1,2 @@
+;;; Generated package description from xwwp-follow-link-ivy.el  -*- no-byte-compile: t -*-
+(define-package "xwwp-follow-link-ivy" "20200917.642" "Link navigation in `xwidget-webkit' sessions using `ivy'" '((emacs "26.1") (xwwp "0.1")) :commit "f67e070a6e1b233e60274deb717274b000923231" :authors '(("Damien Merenne")) :maintainer '("Damien Merenne") :keywords '("convenience") :url "https://github.com/canatella/xwwp")

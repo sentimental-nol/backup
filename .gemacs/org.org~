@@ -1,0 +1,27 @@
+#+TODO: TODO IN-PROGRESS WAITING DONE
+*** Org-mode 기본
+    1) 행 추가
+       - M-RET 
+    2) Tap
+       - 접기/펴기
+    3) 제목행 이동
+       - M-Up/Down
+    4) 계행 변경
+       - M-Left/Right
+    5) 1*+-변경
+       - S-Left/Right
+    6) 마크업
+       1)gg *굵게*
+       2) _밑줄_
+       3) =코드=
+       4) ~요약~
+       5) +삭제선+
+       6) /asd/ 기울기
+* TODO Organize party [2/4]
+  - [-] call people [1/3]
+    - [ ] Peter
+    - [X] Sarah
+    - [ ] Sam
+  - [X] order food
+  - [ ] think about what music to play
+  - [X] talk to the neighbors

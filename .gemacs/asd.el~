@@ -1,0 +1,4 @@
+  (defcustom complete-in-region-use-popup nil
+    "If non-NIL, complete-in-region will popup a menu with the possible completions."
+    :type 'boolean
+    :group 'completion)
