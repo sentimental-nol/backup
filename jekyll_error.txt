@@ -1,0 +1,4 @@
+Conflict: /home/noi/sentimental-nol.github.io exists and is not empty.
+                    Ensure /home/noi/sentimental-nol.github.io is empty or else try again with `--force` to proceed and overwrite any files.
+
+jekyll new . --force
