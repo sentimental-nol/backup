@@ -1,4 +1,4 @@
 @font-face {
     font-family: "MonofurNF"; /*Can be any name. Make sure it's unique.*/
-    src: local('Monofur NF'); /*Name from Keynote. local(...) tells Blink to search iOS for the font instead of trying to download it from the internet.*/
+    src: local('Monofur NF Book'); /*Name from Keynote. local(...) tells Blink to search iOS for the font instead of trying to download it from the internet.*/
 }
