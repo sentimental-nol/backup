@@ -1,0 +1,4 @@
+@font-face {
+    font-family: "HackNF"; /*Can be any name. Make sure it's unique.*/
+    src: local('FiraCodeNerdFontCompletM-Light'); /*Name from Keynote. local(...) tells Blink to search iOS for the font instead of trying to download it from the internet.*/
+}
